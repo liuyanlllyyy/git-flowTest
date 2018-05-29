@@ -21,7 +21,7 @@
     // Do any additional setup after loading the view, typically from a nib.
 //   WKWebView * webbiew = [WKWebView alloc]initWithFrame:CGRectMake(0, 0, [UIScreen mainScreen], <#CGFloat height#>)
     self.webview.delegate = self;
-    
+    //这里是修改的新特性 开发的版本
     
              NSString * urlStr = [NSString stringWithFormat:@"http://192.168.10.87:8083/views/activity.html"];
 //    NSString *filePath = [[NSBundle mainBundle] pathForResource:@"activity" ofType:@"html"];
