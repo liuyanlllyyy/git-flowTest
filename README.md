@@ -3,7 +3,7 @@ git-flow-work
 ##<center>git-flow 工作流程</center>
 ###1.git-flow 说明
 一旦安装安装 git-flow，你将会拥有一些扩展命令。这些命令会在一个预定义的顺序下自动执行多个操作。
-
+#######
 git-flow 并不是要替代 Git，它仅仅是非常聪明有效地把标准的 Git 命令用脚本组合了起来。
 ####git-flow把分支划分了几个类别
 
