@@ -6,7 +6,7 @@ git-flow-work
 
 git-flow 并不是要替代 Git，它仅仅是非常聪明有效地把标准的 Git 命令用脚本组合了起来。
 ####git-flow把分支划分了几个类别
-
+sssssssssssss
 #####Master
 
 就是平时我们看到的master，项目的主要分支，可以把它理解成  稳定无bug发布版 。（任何时候都ready to deploy）
